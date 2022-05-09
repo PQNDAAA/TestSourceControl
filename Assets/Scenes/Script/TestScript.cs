@@ -10,6 +10,8 @@ public class TestScript : MonoBehaviour
         Debug.Log("Dylan le con");
 
         Debug.LogWarning("Attention");
+
+        Debug.Log("TEST 1 2 1 2");
     }
 
     // Update is called once per frame
