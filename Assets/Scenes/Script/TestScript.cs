@@ -8,6 +8,8 @@ public class TestScript : MonoBehaviour
     void Start()
     {
         Debug.Log("Dylan le con");
+
+        Debug.LogWarning("Attention");
     }
 
     // Update is called once per frame
